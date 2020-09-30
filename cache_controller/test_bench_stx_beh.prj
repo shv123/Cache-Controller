@@ -1,0 +1,6 @@
+verilog isim_temp "processor.v"
+verilog isim_temp "main_mem_module.v"
+verilog isim_temp "cache_module.v"
+verilog isim_temp "main.v"
+verilog isim_temp "test_bench.v"
+verilog isim_temp "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

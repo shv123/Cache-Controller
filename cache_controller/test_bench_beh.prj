@@ -1,0 +1,6 @@
+verilog work "processor.v"
+verilog work "main_mem_module.v"
+verilog work "cache_module.v"
+verilog work "main.v"
+verilog work "test_bench.v"
+verilog work "/opt/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"
